@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879542929856",
+    "firebase_url": "https://shopconnect-4e5d1.firebaseio.com",
+    "project_id": "shopconnect-4e5d1",
+    "storage_bucket": "shopconnect-4e5d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879542929856:android:3444ca8ccde4eb3e48a025",
+        "android_client_info": {
+          "package_name": "com.hrishi.devstudio.shopconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879542929856-2ug7qjeen1jcg2nqr8nq2eloa2s99k63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrishi.devstudio.shopconnect",
+            "certificate_hash": "20c2b8b746e32d5de32080f9c55f6d1adc3f7fff"
+          }
+        },
+        {
+          "client_id": "879542929856-m0qr4ncuutljabcl49jdjk8ifr5pbh2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WJuNHSr_koJMyn25RdRGiwuNDhpGbdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879542929856-m0qr4ncuutljabcl49jdjk8ifr5pbh2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

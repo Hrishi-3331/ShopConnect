@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/events"
+        android:title="Events"
+        android:icon="@mipmap/baseline_calendar_today_black_24"/>
+
+    <item android:id="@+id/sponsors"
+        android:title="Sponsors"
+        android:icon="@mipmap/baseline_people_black_24"/>
+
+    <item android:id="@+id/workshops"
+        android:title="Workshops"
+        android:icon="@mipmap/baseline_computer_black_24"/>
+
+    <item android:id="@+id/exhibitions"
+        android:title="Exhibitions"
+        android:icon="@mipmap/baseline_view_carousel_black_24"/>
+
+    <item android:id="@+id/lectures"
+        android:title="Guest Lectures"
+        android:icon="@mipmap/baseline_supervised_user_circle_black_24"/>
+
+    <item android:id="@+id/team"
+        android:title="Our Team"
+        android:icon="@mipmap/baseline_people_black_24"/>
+
+    <item android:id="@+id/gallery"
+        android:title="Gallery"
+        android:icon="@mipmap/baseline_photo_library_black_24"/>
+
+    <item android:id="@+id/contact"
+        android:title="Contact Us"
+        android:icon="@mipmap/baseline_contact_support_black_24"/>
+
+</menu>
